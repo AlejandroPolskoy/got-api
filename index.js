@@ -20,7 +20,8 @@ server.use( express.urlencoded( {extended: true} ));
 
 server.use( "/characters", routeCharacters );
 server.use( "/houses", routeHouses );
-server.use('/images', express.static('images'));
+server.use( express.static('public') );
+server.use( "/images", express.static("images"));
 server.get( "/", (req, res) => {
     res.status(200).json({"message": "Game of Thrones API"});
 });
