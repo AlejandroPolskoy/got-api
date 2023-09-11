@@ -6,6 +6,8 @@ const server = express();
 
 const routeCharacters = require("./api/routers/character.routes");
 const routeHouses = require("./api/routers/houses.routes");
+const routeImages = require("./api/routers/image.routes");
+const { getImage } = require("./api/controllers/image.controller");
 
 server.use((req, res , next) => {
     res.header('Access-Control-Allow-Method', 'GET');
@@ -20,6 +22,7 @@ server.use( express.urlencoded( {extended: true} ));
 
 server.use( "/characters", routeCharacters );
 server.use( "/houses", routeHouses );
+server.use('/images', express.static('images'));
 server.get( "/", (req, res) => {
     res.status(200).json({"message": "Game of Thrones API"});
 });
