@@ -6,8 +6,6 @@ const server = express();
 
 const routeCharacters = require("./api/routers/character.routes");
 const routeHouses = require("./api/routers/houses.routes");
-const routeImages = require("./api/routers/image.routes");
-const { getImage } = require("./api/controllers/image.controller");
 
 server.use((req, res , next) => {
     res.header('Access-Control-Allow-Method', 'GET');
