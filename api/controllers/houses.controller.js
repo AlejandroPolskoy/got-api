@@ -4,11 +4,22 @@ async function getHouses( req, res ) {
 
 async function getHouseByID( req, res ) {
     const { id } = req.params;
-    const house = Houses.filter( (data) => data.id == id );
+    let house;
+    if(id === "find") {
+        house = Houses.filter( (data) => data.name.includes(req.query.name_like) );
+    } else {
+        house = Houses.filter( (data) => data.id == id );
+    }
     return res.status(200).json(house);
 }
 
-module.exports = { getHouses, getHouseByID };
+async function getHouseByName( req, res ) {
+    const { name_like } = req.params;
+    const house = Houses.filter( (data) => data.name.includes(name_like) );
+    return res.status(200).json(house);
+}
+
+module.exports = { getHouses, getHouseByID, getHouseByName };
 
 const Houses = [
     {
