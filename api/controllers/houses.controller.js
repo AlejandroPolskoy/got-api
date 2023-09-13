@@ -19,7 +19,7 @@ const Houses = [
         "alliances": ["Targaryen", "Mormont"],
         "religions": ["Antiguos Dioses del Bosque"],
         "foundation": "04/05/-300",
-        "image":"/images/houses/01.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604401/GoT/01_awwbp5.webp" 
       },
       {
         "id": 2,
@@ -29,7 +29,7 @@ const Houses = [
         "alliances": ["Baratheon", "Tyrell"],
         "religions": ["Fe de los Siete"],
         "foundation": "01/01/-1000",
-        "image":"/images/houses/02.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604401/GoT/02_gaioqf.webp" 
       },
       {
         "id": 3,
@@ -39,7 +39,7 @@ const Houses = [
         "alliances": ["Lannister", "Stark"],
         "religions": ["Fe de los Siete"],
         "foundation": "01/01/-500",
-        "image":"/images/houses/03.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604402/GoT/03_n1ugjp.webp" 
       },
       {
         "id": 4,
@@ -49,7 +49,7 @@ const Houses = [
         "alliances": ["Martell", "Stark"],
         "religions": ["Valyrio", "Fe de los Siete"],
         "foundation": "01/01/-126",
-        "image":"/images/houses/04.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604402/GoT/04_rhpdpo.webp" 
       },
       {
         "id": 5,
@@ -59,7 +59,7 @@ const Houses = [
         "alliances": ["Lannister", "Baratheon"],
         "religions": ["Fe de los Siete"],
         "foundation": "01/01/-1",
-        "image":"/images/houses/05.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604397/GoT/05_oehxll.webp" 
       },
       {
         "id": 6,
@@ -69,7 +69,7 @@ const Houses = [
         "alliances": ["Lannister", "Bolton"],
         "religions": ["Ahogados Dioses"],
         "foundation": "01/01/-1000",
-        "image":"/images/houses/06.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604397/GoT/06_zj7kwd.webp" 
       },
       {
         "id": 7,
@@ -79,7 +79,7 @@ const Houses = [
         "alliances": ["Targaryen", "Tyrell"],
         "religions": ["R'hllor"],
         "foundation": "01/01/-300",
-        "image":"/images/houses/07.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604398/GoT/07_qcv7ie.webp" 
       },
       {
         "id": 8,
@@ -89,7 +89,7 @@ const Houses = [
         "alliances": ["Stark", "Arryn"],
         "religions": ["Fe de los Siete"],
         "foundation": "01/01/-650",
-        "image":"/images/houses/08.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604398/GoT/08_emjzcy.webp" 
       },
       {
         "id": 9,
@@ -99,7 +99,7 @@ const Houses = [
         "alliances": ["Tully", "Stark"],
         "religions": ["Fe de los Siete"],
         "foundation": "01/01/-1000",
-        "image":"/images/houses/09.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604398/GoT/09_atl35y.webp" 
       },
       {
         "id": 10,
@@ -109,7 +109,7 @@ const Houses = [
         "alliances": ["Lannister", "Greyjoy"],
         "religions": ["Antiguos Dioses del Bosque"],
         "foundation": "01/01/-600",
-        "image":"/images/houses/10.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604398/GoT/10_deywnn.webp" 
       },
       {
         "id": 11,
@@ -119,7 +119,7 @@ const Houses = [
         "alliances": ["Lannister", "Bolton"],
         "religions": ["Fe de los Siete"],
         "foundation": "01/01/-600",
-        "image":"/images/houses/11.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604399/GoT/11_lycgaa.webp" 
       },
       {
         "id": 12,
@@ -129,7 +129,7 @@ const Houses = [
         "alliances": ["Stark", "Targaryen"],
         "religions": ["Antiguos Dioses del Bosque"],
         "foundation": "01/01/-700",
-        "image":"/images/houses/12.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604399/GoT/12_wdvrwz.webp" 
       },
       {
         "id": 13,
@@ -139,7 +139,7 @@ const Houses = [
         "alliances": ["Tyrell", "Lannister"],
         "religions": ["Fe de los Siete"],
         "foundation": "01/01/-500",
-        "image":"/images/houses/13.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604400/GoT/13_oi2adv.webp" 
       },
       {
         "id": 16,
@@ -149,7 +149,7 @@ const Houses = [
         "alliances": ["Stark", "Baratheon"],
         "religions": ["Fe de los Siete"],
         "foundation": "01/01/-500",
-        "image":"/images/houses/14.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604400/GoT/14_nmkq7s.webp" 
       },
       {
         "id": 17,
@@ -159,6 +159,6 @@ const Houses = [
         "alliances": ["Baratheon"],
         "religions": ["Fe de los Siete"],
         "foundation": "01/01/-600",
-        "image":"/images/houses/15.webp" 
+        "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694604400/GoT/15_zsfumr.webp" 
       }
 ]

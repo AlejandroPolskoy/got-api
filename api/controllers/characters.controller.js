@@ -29,7 +29,7 @@ const Characters = [
       "alliances": ["House Stark", "House Targaryen"],
       "episodes": ["Winter Is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things"],
       "age": 23,
-      "image":"/images/characters/01.jpg"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603966/GoT/01_kdohaq.jpg"
     },
     {
       "id": 2,
@@ -41,7 +41,7 @@ const Characters = [
       "alliances": ["House Targaryen", "Dothraki"],
       "episodes": ["Winter Is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things"],
       "age": 25,
-      "image":"/images/characters/02.jpeg"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603966/GoT/02_mvevyu.jpg"
     },
     {
       "id": 3,
@@ -53,7 +53,7 @@ const Characters = [
       "alliances": ["House Lannister", "House Targaryen"],
       "episodes": ["Winter Is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things"],
       "age": 40,
-      "image":"/images/characters/03.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603963/GoT/03_yyed2t.webp"
     },
     {
       "id": 4,
@@ -65,7 +65,7 @@ const Characters = [
       "alliances": ["House Stark"],
       "episodes": ["Winter Is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things"],
       "age": 20,
-      "image":"/images/characters/04.jpg"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603963/GoT/04_uxe1i2.jpg"
     },
     {
       "id": 5,
@@ -77,7 +77,7 @@ const Characters = [
       "alliances": ["House Lannister"],
       "episodes": ["Winter Is Coming", "The Kingsroad", "Lord Snow", "Cripples, Bastards, and Broken Things"],
       "age": 45,
-      "image":"/images/characters/05.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603963/GoT/05_pnioos.webp"
     },
     {
       "id": 6,
@@ -89,7 +89,7 @@ const Characters = [
       "alliances": ["House Stark"],
       "episodes": ["The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End"],
       "age": 24,
-      "image":"/images/characters/06.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603964/GoT/06_wzzq5g.webp"
     },
     {
       "id": 7,
@@ -101,7 +101,7 @@ const Characters = [
       "alliances": ["House Lannister"],
       "episodes": ["The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End"],
       "age": 40,
-      "image":"/images/characters/07.jpg"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603963/GoT/07_jpduim.jpg"
     },
     {
       "id": 8,
@@ -113,7 +113,7 @@ const Characters = [
       "alliances": ["House Tyrell", "House Baratheon"],
       "episodes": ["The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End"],
       "age": 28,
-      "image":"/images/characters/08.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603963/GoT/08_ywiikd.webp"
     },
     {
       "id": 9,
@@ -125,7 +125,7 @@ const Characters = [
       "alliances": ["House Baratheon"],
       "episodes": ["The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End"],
       "age": 47,
-      "image":"/images/characters/09.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603964/GoT/09_kty3cf.webp"
     },
     {
       "id": 10,
@@ -137,7 +137,7 @@ const Characters = [
       "alliances": ["House Martell", "House Targaryen"],
       "episodes": ["The Wolf and the Lion", "A Golden Crown", "You Win or You Die", "The Pointy End"],
       "age": 41,
-      "image":"/images/characters/10.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603964/GoT/10_yxu5gd.webp"
     },
     {
       "id": 11,
@@ -149,7 +149,7 @@ const Characters = [
       "alliances": ["House Stark"],
       "episodes": ["The Mountain and the Viper", "The Watchers on the Wall", "The Children", "The Wars to Come"],
       "age": 35,
-      "image":"/images/characters/11.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603964/GoT/11_li7vj9.webp"
     },
     {
       "id": 12,
@@ -161,7 +161,7 @@ const Characters = [
       "alliances": ["Free Folk", "House Stark"],
       "episodes": ["Hardhome", "The Door", "Battle of the Bastards", "The Dragon and the Wolf"],
       "age": 45,
-      "image":"/images/characters/12.jpg"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603964/GoT/12_edfexi.jpg"
     },
     {
       "id": 13,
@@ -173,7 +173,7 @@ const Characters = [
       "alliances": ["Night's Watch", "House Targaryen"],
       "episodes": ["The Children", "High Sparrow", "Book of the Stranger", "The Winds of Winter"],
       "age": 32,
-      "image":"/images/characters/13.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603964/GoT/13_jteufj.webp"
     },
     {
       "id": 14,
@@ -185,7 +185,7 @@ const Characters = [
       "alliances": ["House Targaryen"],
       "episodes": ["The Kingsroad", "A Golden Crown", "You Win or You Die", "The Pointy End"],
       "age": 52,
-      "image":"/images/characters/14.jpg"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603964/GoT/14_ghox4n.jpg"
     },
     {
       "id": 15,
@@ -197,7 +197,7 @@ const Characters = [
       "alliances": ["House Baratheon", "House Stark"],
       "episodes": ["The Spoils of War", "Eastwatch", "Beyond the Wall", "The Dragon and the Wolf"],
       "age": 34,
-      "image":"/images/characters/15.jpg"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603964/GoT/15_gnsyjt.jpg"
     },
     {
       "id": 16,
@@ -209,7 +209,7 @@ const Characters = [
       "alliances": ["House Stark", "House Baratheon"],
       "episodes": ["Blackwater", "The Lion and the Rose", "The Children", "The Iron Throne"],
       "age": 50,
-      "image":"/images/characters/16.jpg"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603965/GoT/16_gmqi9r.jpg"
     },
     {
       "id": 17,
@@ -221,7 +221,7 @@ const Characters = [
       "alliances": ["House Baratheon", "Brotherhood Without Banners"],
       "episodes": ["The North Remembers", "The Ghost of Harrenhal", "Blackwater", "The Climb"],
       "age": 400,
-      "image":"/images/characters/17.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603965/GoT/17_ewkd0s.webp"
     },
     {
       "id": 18,
@@ -233,7 +233,7 @@ const Characters = [
       "alliances": ["House Lannister", "House Tyrell"],
       "episodes": ["The Wolf and the Lion", "Blackwater", "The Laws of Gods and Men", "The Spoils of War"],
       "age": 40,
-      "image":"/images/characters/18.jpg"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603965/GoT/18_gyzstt.jpg"
     },
     {
       "id": 19,
@@ -245,7 +245,7 @@ const Characters = [
       "alliances": ["House Stark", "House Targaryen"],
       "episodes": ["The Pointy End", "The Old Gods and the New", "Mhysa", "Winterfell"],
       "age": 31,
-      "image":"/images/characters/19.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603965/GoT/19_lfslij.webp"
     },
     {
       "id": 20,
@@ -257,6 +257,6 @@ const Characters = [
       "alliances": ["The Faceless Men"],
       "episodes": ["A Man Without Honor", "The Ghost of Harrenhal", "Valar Morghulis", "No One"],
       "age": null,
-      "image":"/images/characters/20.webp"
+      "image":"https://res.cloudinary.com/dy6tv0thr/image/upload/v1694603966/GoT/20_of9ppa.webp"
     }
 ];
